@@ -36,6 +36,11 @@ The data has been split into two groups:
 ### The Dataset Files :
 * [`titanic_Dataset`](https://github.com/hagar912/blob/master/titanic_ds.csv)
 
+### Analysis coding provided here :
+* [`Titanic Analysis using LDA`](https://github.com/hagar912/Titanic-Surveillance/blob/master/LDA.R)
+* [`Titanic Analysis using PCA`](https://github.com/hagar912/Titanic-Surveillance/blob/master/PCA.R)
+
+
 
 
 
