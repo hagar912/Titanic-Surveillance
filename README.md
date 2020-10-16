@@ -2,11 +2,11 @@
 ###### This project created on 9/12/2019.
 In this project, you will see the usage of R to explore data related to titanic survillance analysis project using Big data techniques.
 
-#### Using Big data techniques to find the best performace for the model accuracy like : 
+### Using Big data techniques to find the best performace for the model accuracy like : 
 1. Naive Base technique.
 2. logistics regression.
 3. Support vector machine.
-#### Applying two main algorithms for finding a feature subspace that maximizes class separability for dimentionaity reduction :
+### Applying two main algorithms for finding a feature subspace that maximizes class separability for dimentionaity reduction :
 * Linear Discriminant Analysis[LDA] :
 LDA is a supervised which involves reducing the number of input variables or columns in modeling data.
 
@@ -39,11 +39,3 @@ The data has been split into two groups:
 ### Analysis coding provided here :
 * [`Titanic Analysis using LDA`](https://github.com/hagar912/Titanic-Surveillance/blob/master/LDA.R)
 * [`Titanic Analysis using PCA`](https://github.com/hagar912/Titanic-Surveillance/blob/master/PCA.R)
-
-
-
-
-
-
-
-
