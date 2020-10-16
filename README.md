@@ -1,4 +1,4 @@
-## Titanic survillance Prediction.
+## Titanic survillance Analysis.
 ###### This project created on 9/12/2019.
 In this project, you will see the usage of R to explore data related to titanic survillance analysis project using Big data techniques.
 
