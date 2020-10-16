@@ -6,11 +6,12 @@ In this project, you will see the usage of R to explore data related to titanic 
 1. Naive Base technique.
 2. logistics regression.
 3. Support vector machine.
-## Applying two main algorithms for finding a feature subspace that maximizes class separability for dimentionaity reduction :
-1. Linear Discriminant Analysis [LDA] :
+#### Applying two main algorithms for finding a feature subspace that maximizes class separability for dimentionaity reduction :
+* Linear Discriminant Analysis[LDA] :
 LDA is a supervised which involves reducing the number of input variables or columns in modeling data.
-2.  Principal Component Analysis [PCA] :
-PCA is unsupervised which ignores class labels and consider as the most popular technique for dimensionality reduction in machine learning that can be used as a data preparation technique to create a projection of a dataset prior to fitting a model
+
+* Principal Component Analysis[PCA] :
+PCA is unsupervised which ignores class labels and consider as the most popular technique for dimensionality reduction in machine learning that can be used as a data preparation technique to create a projection of a dataset prior to fitting a model.
 
 ### The Datasets
 We worked with 712 records and 12 attributes but using some of them as we choose the best features for the training.
@@ -33,7 +34,7 @@ The data has been split into two groups:
  For working on your local machine, you will need to install R and working with RStudio.
 
 ### The Dataset Files :
-* [`titanic_Dataset`](https://github.com/hagar912/)
+* [`titanic_Dataset`](https://github.com/hagar912/blob/master/titanic_ds.csv)
 
 
 
